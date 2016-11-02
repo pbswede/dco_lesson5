@@ -1,0 +1,11 @@
+name = File Upload Security
+description = Warns about or prevents insecure file upload settings in content.
+core = 7.x
+
+dependencies[] = entity
+; Information added by Drupal.org packaging script on 2016-10-31
+version = "7.x-1.2"
+core = "7.x"
+project = "file_upload_security"
+datestamp = "1477925964"
+
